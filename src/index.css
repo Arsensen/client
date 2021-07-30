@@ -17,3 +17,13 @@ input.validate{
   margin-bottom: 1em;
   overflow-wrap: break-word;
 }
+
+.link-form{
+  width: 60%;
+  margin: 20px auto 0;
+  display: flex;
+}
+
+.link-form .btn{
+  margin-left: 15px;
+}
